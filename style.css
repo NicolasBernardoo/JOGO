@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Crismson text", serif;
+  font-size: 20px;
+  line-height: 1.5;
+  background: url(./img/IMG-20231104-WA0028.jpg) center/cover no-repeat;
+  backdrop-filter: blur(10px);
+  color: white;
+}
+
+.paragraph {
+  font-family: "Open sans Condensed", sans-serif;
+  padding: 25px;
+  margin: 0px;
+  text-transform: uppercase;
+  background-color: rgb(39, 39, 39);
+  gap: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 1040px;
+  padding: 40px;
+  background: url(./img/download.png) center/cover no-repeat;
+  border-radius: 20px;
+  color: white;
+  border: 1px solid;
+}
+
+.paragraph img {
+  width: 110px;
+  padding: 24px;
+  float: left;
+  border-radius: 30%;
+  gap: 20px;
+}
+
+h2 {
+  font-size: 40px;
+  font-family: "Open sans Condensed", sans-serif;
+  clear: both;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 10px 0;
+  color: white;
+}
+
+h2 {
+  font-size: 40px;
+  font-family: "Open sans Condensed", sans-serif;
+  clear: both;
+}
+
+p {
+  text-align: justify;
+  margin: 30px 0;
+}
+
+.paragraph h1 {
+  text-align: center;
+  font-size: 60px;
+  display: flex;
+}
+
+footer {
+  background-color: rgb(15, 15, 15);
+  height: 80px;
+  color: #f2fffc;
+  padding: 30px;
+  clear: both;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  margin-top: 20px;
+  padding-top: 0px;
+  justify-content: center;
+  align-items: center;
+}
+
+footer p {
+  padding: 20px;
+  display: flex;
+  text-align: center;
+  margin-bottom: 10px;
+}
