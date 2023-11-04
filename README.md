@@ -1,7 +1,2 @@
 # JOGO
-# JOGO
-# JOGO
-# JOGO
-# JOGO
-# JOGO
-# JOGO
+
